@@ -1,4 +1,7 @@
-# Market Risk Monitoring Pipeline
+# Moody’s-Aligned Credit & Market Risk Monitoring System
+
+**Live Report (GitHub Pages):** https://BegumAb.github.io/moodys-risk-monitor/  
+**Repository:** https://github.com/BegumAb/moodys-risk-monitor
 
 Production-style Python risk monitoring pipeline designed to track:
 
