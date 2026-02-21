@@ -3,4 +3,4 @@
 __pycache__/
 *.pyc
 data.sqlite
-outputs/
+outputs/.ipynb_checkpoints/
