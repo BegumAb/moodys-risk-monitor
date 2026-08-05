@@ -2,6 +2,8 @@
 
 **Live Report (GitHub Pages):** https://BegumAb.github.io/moodys-risk-monitor/  
 **Repository:** https://github.com/BegumAb/moodys-risk-monitor
+  
+This is a simplified, production-style market risk monitoring system.
 
 Production-style Python risk monitoring pipeline designed to track:
 
